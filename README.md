@@ -1,2 +1,2 @@
-# botobor-wordpress
-Botobor WordPress Plugin
+Botobor для WordPress
+=====================
